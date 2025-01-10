@@ -1,0 +1,12 @@
+C:\Users\randr\Desktop\codes\rust\packetsniffer\target\debug\deps\libgcore-9b6cbae1c68a97b1.rmeta: C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src/lib.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\errors.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\exec.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\msg.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\prog.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\utils.rs
+
+C:\Users\randr\Desktop\codes\rust\packetsniffer\target\debug\deps\libgcore-9b6cbae1c68a97b1.rlib: C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src/lib.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\errors.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\exec.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\msg.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\prog.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\utils.rs
+
+C:\Users\randr\Desktop\codes\rust\packetsniffer\target\debug\deps\gcore-9b6cbae1c68a97b1.d: C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src/lib.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\errors.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\exec.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\msg.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\prog.rs C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\utils.rs
+
+C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src/lib.rs:
+C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\errors.rs:
+C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\exec.rs:
+C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\msg.rs:
+C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\prog.rs:
+C:\Users\randr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcore-1.7.0\src\utils.rs:
